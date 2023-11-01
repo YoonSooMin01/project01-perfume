@@ -45,7 +45,7 @@
 #### Survey - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Survey)" >상세보기 - WIKI 이동</a>
 - 설문페이지
   
-#### Order - <a href="" >상세보기 - WIKI 이동</a> 
+#### Order - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Order)" >상세보기 - WIKI 이동</a>
 - 주문
 - 주문내역
 - 주문상세
