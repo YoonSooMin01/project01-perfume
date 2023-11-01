@@ -25,19 +25,19 @@
 
 
 ## 📌 주요 기능
-#### Main - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
+#### Main - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Main)" >상세보기 - WIKI 이동</a>
 - 메인 페이지(Survey, Shop)
 - 소개 페이지
   
-#### Board - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+#### Board - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Board)" >상세보기 - WIKI 이동</a>
 - 공지사항
 - 이벤트
   
-#### Shop - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+#### Shop - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Shop)" >상세보기 - WIKI 이동</a>
 - 상품 페이지
 - 상품 상세 페이지
   
-#### Member - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%98%81%ED%99%94-%EC%98%88%EB%A7%A4)" >상세보기 - WIKI 이동</a>
+#### Member - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
 - 회원가입
 - 로그인
 - 마이페이지
