@@ -19,9 +19,9 @@
 
 
 ### ⚙️ 개발 환경
-- **FRONT-END** : JS , Bootstrap5.3.0 , JQuery3.7.0 , JSP
-- **BACK-END** : Oracle, Tomcat9.0v , Mybatis , JDBC , JAVAjdk1.8bv , Maven , Spring5.2.19 Realease
-- **Tools** : Github , Eclipse , SQL Developer4.1.3
+- **FRONT-END** : JS , Bootstrap , JQuery , JSP
+- **BACK-END** : Oracle, Tomcat , Mybatis , JDBC , JAVA , Maven , Spring
+- **Tools** : Github , Eclipse , SQL Developer
 
 
 ## 📌 주요 기능
